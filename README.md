@@ -1,6 +1,6 @@
 # Deno, MongoDB and, Oak RESTAPI
 
-> Simple REST API using Deno, Oak, and MongoDB. Successfully implemented CRUD operation like Create, Read, Update, Delete.
+> Simple REST API using Deno, Oak, and MongoDB. Successfully implemented CRUD operations like Create, Read, Update, and, Delete.
 
 ## Technologies used
 * Deno
@@ -57,7 +57,7 @@ PUT     /api/v1/product/:id
 DELETE  /api/v1/product/:id
 ```
 
-### Happy Leaning!
+### Happy Learning!
 
 
 
